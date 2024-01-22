@@ -1,2 +1,2 @@
-# LethalCompanyTemplate
-A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding
+# InstantRespawn
+Makes players instantly respawn at the ship after death, usable in orbit (for the testing room).
